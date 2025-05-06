@@ -1,0 +1,18 @@
+{
+  "name": "api-clima-tempo",
+  "version": "0.0.0",
+  "description": "apiClimaTempo",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
